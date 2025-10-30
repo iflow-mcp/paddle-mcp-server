@@ -1,5 +1,5 @@
 {
-  "name": "@paddle/paddle-mcp",
+  "name": "@iflow-mcp/paddle-mcp-server",
   "version": "0.1.2",
   "description": "MCP Server for Paddle Billing",
   "license": "Apache-2.0",
