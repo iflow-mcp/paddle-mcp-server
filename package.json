@@ -1,6 +1,6 @@
 {
   "name": "@iflow-mcp/paddle-mcp-server",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "MCP Server for Paddle Billing",
   "license": "Apache-2.0",
   "repository": "https://github.com/PaddleHQ/paddle-mcp-server",
